@@ -1,4 +1,6 @@
 # Penpot-UbuCon-Workshop-2026
+<img width="1230" height="305" alt="Board" src="https://github.com/user-attachments/assets/8ce68d08-ba0f-4c52-a4c5-26e635023f38" />
+
 Hello & welcome! <img height="24" alt="dance" src="https://github.com/user-attachments/assets/3b647956-7466-47b5-9f1f-39dd152bf97c" />
 
 This repository contains the starter file for the Getting Started with Penpot hands-on workshop happening in UbuCon India 2026.
